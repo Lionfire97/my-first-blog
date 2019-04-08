@@ -61,9 +61,10 @@ h1, h2, h3, h4 {
 
 .cabecera{
 
-background-color: #3C51FF;
-color: white;
-font-size: 70px;
-margin-top: 10px;
-text-align: center;
+  background-color: #3C51FF;
+  color: white;
+  font-size: 70px;
+  margin-top: 10px;
+  text-align: center;
+
 }
